@@ -38,7 +38,8 @@ Segmentation: Signal divided into contraction candidate windows based on amplitu
 
 Feature Extraction: Extracted time-domain and frequency-domain features including peak amplitude, duration, power spectral density metrics.
 
-![image](https://github.com/user-attachments/assets/cfa62405-7f63-4bcf-aec0-9263267757b4)
+![image](https://github.com/user-attachments/assets/39b2788d-16eb-4db3-ad8b-27c1eb4a7389)
+
 
 
 **2.3 Classification**
